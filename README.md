@@ -8,3 +8,4 @@ The program finds the solution to a maze (the correct path to get from one point
 
 ## Image
 Here below we can see an image of the GUI.
+![](Images/MazeSolver.png)

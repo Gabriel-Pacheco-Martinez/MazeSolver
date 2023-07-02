@@ -1,5 +1,5 @@
 # MazeSolver
-The program finds the solution to a maze (the correct path to get from one point to the other). The program was designed into a GUI that gives two options to the user. These two options allow the user to either find the shortest path to start to finish or the longest path. 
+The program finds the solution to a maze (the correct path to get from one point to the other). The program was designed into a GUI that gives two options to the user. These two options allow the user to either find the shortest path to start to finish or the longest path. This program was inspired by the previous work done by Cleve Moler in his program "Amaze" obtained from Math Works.
 
 ## Files
 * **Long_Route**: Function that searches for the longest path.

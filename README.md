@@ -4,7 +4,7 @@ The program finds the solution to a maze (the correct path to get from one point
 ## Files
 * **Long_Route**: Function that searches for the longest path.
 * **Shortcut**: Function that searches for the shortest path.
-*  ****: Program that controls the GUI and links together the previous two function
+*  **PM20208103**: Program that controls the GUI and links together the previous two function
 
-## Image:
+## Image
 Here below we can see an image of the GUI.
